@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CSC 250 Android 1</string>
+    <string name="hello_world">Hello World!!!!</string>
+    <string name="LName_Start">Last Name</string>
+    <string name="FName_Start">First Name</string>
+    <string name="Last_Name">Yakimow</string>
+    <string name="First_Name">Jonathan</string>
 </resources>
